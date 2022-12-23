@@ -9,4 +9,9 @@
     "--profile",
     "black"
   ],
+  "cSpell.words": [
+    "astype",
+    "fillna",
+    "iloc"
+  ],
 }
