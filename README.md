@@ -1,6 +1,11 @@
 # TMDB
 
-[link to dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+This Project focuses on the TMDB dataset and combines the results from Netflix, Amazon Prime and Disney Plus.
+
+[link to movie dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+[link to netflix dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+[link to amazon dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
+[link to disney dataset](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
 [link to Project Rubrics](https://review.udacity.com/#!/rubrics/3298/view)
 
 ## Project Submission Checklist
@@ -13,3 +18,8 @@
 
 
 ## Indicators to investigate
+- which genres there the most popular and generated the most money
+- 
+
+## Visualizations
+single Plots 😂😉
